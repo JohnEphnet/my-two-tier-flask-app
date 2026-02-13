@@ -1,7 +1,7 @@
 # DevOps Project Report: Automated CI/CD Pipeline for a 2-Tier Flask Application on AWS
 
-**Author:** John Ephnet
-**Date:** Feb 12, 2026
+**Author:** Prashant Gohel
+**Date:** August 23, 2025
 
 ---
 
